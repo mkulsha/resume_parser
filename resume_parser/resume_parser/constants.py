@@ -1,6 +1,6 @@
 from nltk.corpus import stopwords
 
-# Omkar Pathak
+# Mukul Sharma
 NAME_PATTERN      = [{'POS': 'PROPN'}, {'POS': 'PROPN'}]
 
 # Education (Upper Case Mandatory)
